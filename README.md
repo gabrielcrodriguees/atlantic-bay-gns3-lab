@@ -1,4 +1,4 @@
-# Atlantic Bay Resort & Spa — Enterprise Data Network
+# Atlantic Bay Resort & Spa: Enterprise Data Network
 
 A multi-site data network for a fictional resort complex, planned, simulated and configured in GNS3 with Cisco IOS/IOU routers.
 The project was developed for the *Data Routing (Encaminhamento de Dados)* course, Computer Engineering degree (Networks and Systems Administration), ISEC.
@@ -20,11 +20,11 @@ Every building and unit has several routers and subnets, each with at least one 
 
 ## Technologies Used
 
-- **GNS3 v2.2.58** — Network simulation
-- **Cisco IOS/IOU** — Router operating system
-- **OSPF, EIGRP, RIPv2** — Dynamic routing protocols
-- **NAT/PAT, ACLs** — Internet access
-- **IPv6 (6to4 tunnels)** — Transition strategy over IPv4
+- **GNS3 v2.2.58**: Network simulation
+- **Cisco IOS/IOU**: Router operating system
+- **OSPF, EIGRP, RIPv2**: Dynamic routing protocols
+- **NAT/PAT, ACLs**: Internet access
+- **IPv6 (6to4 tunnels)**: Transition strategy over IPv4
 
 ## Network Design
 
@@ -76,4 +76,4 @@ Three routing protocols are used, so that no protocol is repeated inside the sam
 
 ## Author
 
-Gabriel Cardoso Rodrigues — ISEC, Instituto Politécnico de Coimbra
+Gabriel Cardoso Rodrigues: ISEC, Instituto Politécnico de Coimbra
